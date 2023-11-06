@@ -1,13 +1,13 @@
-# Project: Language Learning Game
+# Project: LearnLingo 
 LearnLingo is a web app of Learning langugaes through intresting quiz exercises and activities. It has Leaderboard to recognise our learning proficiency. On LearnLingo Profile you can view all the quiz and score as per your performance.
 
 ## Technologies used:
-Typescript
-Next.js 13 / React.js
-Prisma (as ORM)
-NextAuth
-TailwindCSS
-Zod (schema validation)
+Typescript, 
+Next.js 13 / React.js, 
+Prisma (as ORM), 
+NextAuth, 
+TailwindCSS, 
+Zod (schema validation), 
 Postgres on [NeonDB](https://neon.tech/)
 
 
